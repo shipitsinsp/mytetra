@@ -107,7 +107,13 @@
       <record id="1487216730zcvmlrs3l0" name="UkM1U0lNUANiYUBaOADfC1c37LQMOSOT+OW5KRmlkbYBsyV4NcI2jIOfpVoR2BQQdoMiHqVIu5D0DM7L81Zt8sg2noIBQh7z+RUjoa4Mlg2gU2xw7w3iRfH+XaugVVxl" author="UkM1U0lNUAPqFr4/eSB/09+MyfK5lt2sHDwdtGUJST05y7QFY0vrxQmnyVWCGsgsypSWFJPQ2YHZycsMcJegSQ==" url="" tags="UkM1U0lNUAM39kS97y7UrQe5ZyX61xNA9fCkqDCVcJ4D9q2BQyzMME8DDUYbMLC1cPdPHmp/1vaZUJinORWc9grVLNu8sKF74Fyof5vkaOojqNlGTXfPDQFN4yhjnirAKruZZtRci7Tt7q7IXy7e/mHovDPdnmRwAB8LqlZStUzQ0i+fIb9p1xjrwGZ91nD/oiNOcLvFEx3F3JrYuGPpyWa0xrnsHmci" ctime="20170216084530" dir="1487216730xli293xf5w" file="text.html" crypt="1"/>
      </recordtable>
     </node>
-    <node crypt="1" icon="" id="1501247282zv20o71exy" name="UkM1U0lNUAPHDBJvOaiostVr+idceKDOcqLblPhJyF95+cSWXssRPPEkexuQxeZT"/>
+    <node crypt="1" icon="" id="1501247282zv20o71exy" name="UkM1U0lNUAPHDBJvOaiostVr+idceKDOcqLblPhJyF95+cSWXssRPPEkexuQxeZT">
+     <recordtable>
+      <record id="1503041941h4tll1uebn" name="UkM1U0lNUAO7kX/ZCqSCVgBMOGAo783asEbpfNwVSxw3K2ozI4UW/hjom+kz/3hPAR8Yi3Z5E5374Gpsd8pbsA0ukE+woyAw8iVyGtES4/hrmByaEfHw0A==" author="UkM1U0lNUANc/YB2AUU9vkdBlb/gFajOUTKD10NoMZVg9tJWI+jwWE/bpG3FlNWnu4t+DLvOQmnqfWlYWTkPLg==" url="" tags="UkM1U0lNUAOieT5Eoub3XVFe+Xy1OZ3Aw+JD7ZqAH7H+y81Vb6Dq/Ve1IvbG4O4v" ctime="20170818123901" dir="1503041941xzr7u7qu5e" file="text.html" crypt="1"/>
+      <record id="1503042657kdqpq6rg0k" name="UkM1U0lNUAMFzSAQtN/Gy2PstYp3bokBwKPAoNSXNPG+5L6rfi4+y6rM+NB/sxBsIUQuXecvCacmivLUxDEpR34AoK/HKrcHZZ6i+ZQTY9+/wczf+UlZYQ==" author="UkM1U0lNUAP/1Onekyn6vcliR+0qx0GK2nlS8RFXj/1khFI8SQ1aW7BRr8QNdY99ZVdhECOu0qz0xuwiVWGEMA==" url="" tags="UkM1U0lNUANrOGWQp42L8IaLC5V3xGNq6i0/G0ze5Bz40KX11TLnl7/iqEmH8eLgvazvKVDdRiw=" ctime="20170818125057" dir="1503042657xn0ak1isoc" file="text.html" crypt="1"/>
+      <record id="1503043089n248me45m7" name="UkM1U0lNUAPn2/cukzIecmBeTRK73g9qr+XLSPN6hHKHjKzEuimDSVQb3sm2Up9bhY6YNoK+uoWnn4EizMp0pL86YYDkTbtfH7CYuUGBWhEgcWCbaGNw9Q==" author="UkM1U0lNUAMSi+atQ3flqcicmDXXtnJZ3nBWDjV31ll00UQdUGipIAxURLU07dDLeqN6qTCrrcxF8fT2wYIvEw==" url="" tags="UkM1U0lNUAMVoWSWfnvVhfaGT6UCrrAUR8716oD+NJYPpiijWbaRlMb63mpXuxbx" ctime="20170818125809" dir="1503043089j8r4ncmzx7" file="text.html" crypt="1"/>
+     </recordtable>
+    </node>
    </node>
    <node crypt="1" icon="" id="1481774862ibswuzkb4p" name="UkM1U0lNUANZWhpNqJ9O39DxOspeXlAtHncf7JAaiemoMnx9BduIU4vSJrMsfh9U">
     <recordtable>
@@ -256,6 +262,13 @@
      <record id="14914082561mvn18wa8v" name="UkM1U0lNUAOSAHiH74pqdfHFz4RT2xrQsTG+Jt7oj94B8AZk5CV92nPENDqmPDMN0ERmaCExASorBpM2Hpc2RCDoczZFkZhryBfnHTVq0pfRhSC3c6F4GlWVgziMX+kFQXucmcZz/8EIGJqNYrAe8T/b4kw9Xo+6EYcXpJTzi61uB91kIM7WBGVMY8BW0699" author="UkM1U0lNUAMS4oZ2Uz+yzhIM5ZXoc+C85iF2q+S9X50/vpoy5C844KLWR+lM5BaiCDDOdaCV6b/EeYbqVGEGHw==" url="" tags="" ctime="20170405210416" dir="149140825609bjw5gwoe" file="text.html" crypt="1"/>
      <record id="14915656930u6174aiwd" name="UkM1U0lNUANk2YOZ5n2eHCt9pJy5b4UW+SwhvxUSzKml89yLyw2WnfbnnHUSi1QZxnSAv6+MJ0WyG8V8BqT7OaZFQNC8A1ATe2l713HFiwdnbRD8wWkdsU/D78KtEQjo4OII5OlQ7j3ErHy8Y7EwpQmN8sJC3gPgd/X+nJ9Fh8tNaje8fwhmbjfblADUmS/k" author="UkM1U0lNUAP6BTZoPhChjmeKlpnG2mcYu9KZAJ3q7vGaLKkINL5x9KUWr8f8v4E9TYAMtY5QRbqSiQeyY/qW1g==" url="" tags="" ctime="20170407164813" dir="1491565693ihepoagt11" file="text.html" crypt="1"/>
      <record id="14918143147w7lj3erdt" name="UkM1U0lNUAPk4NoduAMdGU83Wqq8aFoRV98v76tV8R1F2Jw/B1X+E/QhUAs4hqEoMIf0GnYyTbY0jvLZpiSaWBRk+IHHF/G+3Ir/+bOLWfylZVHhfJc1kxQzwtZTm6Q4iPYZiMZG69bIrJwMr7Md1JjGdNPxRLe8vNodAVeSKx4RomCeDFVuGqeWuVMb0uur" author="UkM1U0lNUAPB4mCb/xieHAv4lYoo83SqOuAenNhLLN1ZmACH7vC6rcgKzlSkWM/9wl2LOEStUlRHhv/oDv3QaA==" url="" tags="" ctime="20170410135154" dir="14918143146dcl8orbjc" file="text.html" crypt="1"/>
+    </recordtable>
+   </node>
+  </node>
+  <node crypt="" id="150307552445ck3qxbmt" name="Писательство">
+   <node crypt="" id="1503075573afmf4hug02" name="Врата Предела">
+    <recordtable>
+     <record id="1503075595d2a7ll3pi0" name="Восьмой хранитель" author="Шипицин С. П." url="" tags="" ctime="20170818215955" dir="15030755958w26sw5ipf" file="text.html"/>
     </recordtable>
    </node>
   </node>
