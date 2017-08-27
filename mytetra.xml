@@ -116,7 +116,7 @@
      <node crypt="1" icon="" id="1503661107sw8y0jw2s5" name="UkM1U0lNUAM7xLrYcvjWllW/ZNLgBzh3qSEc1fNdLJGwFztM+EDsA35QWrjBJM23O4imHCUVgaLBogG8xUDYZGD7OB2Lc5p8Rgoqx61Bywy+Sgbb8kIYyg==">
       <recordtable>
        <record id="1503042657kdqpq6rg0k" name="UkM1U0lNUAMFzSAQtN/Gy2PstYp3bokBwKPAoNSXNPG+5L6rfi4+y6rM+NB/sxBsIUQuXecvCacmivLUxDEpR34AoK/HKrcHZZ6i+ZQTY9+/wczf+UlZYQ==" author="UkM1U0lNUAP/1Onekyn6vcliR+0qx0GK2nlS8RFXj/1khFI8SQ1aW7BRr8QNdY99ZVdhECOu0qz0xuwiVWGEMA==" url="" tags="UkM1U0lNUANrOGWQp42L8IaLC5V3xGNq6i0/G0ze5Bz40KX11TLnl7/iqEmH8eLgvazvKVDdRiw=" ctime="20170825163843" dir="1503042657xn0ak1isoc" file="text.html" crypt="1"/>
-       <record id="15036611650yup9y6432" name="UkM1U0lNUAOpD6jvky3+IOXEev1chV925jkhRZYmp/6ctGethcakcX6H8GC8dG8D5cgxOy1DNCSBNU7690ZCaEAzSX+9G9U4ikE6xbJ2tn/Fx1//ma3MpjVhulxeQEUi" author="UkM1U0lNUANvfn/jr9CR0lPsKil9ODVIBekwbUwU8+t6IB+fAErC3U0eI5IvHtuEvdwAGmeR+drvdD/v7/ETZQ==" url="" tags="UkM1U0lNUAMBMlfthlvtOLb5Vddc+wKnZquvZzmVxxzEqOFQVkU/y5g+wt4ui0Zewg9TH4czInU=" ctime="20170825163925" dir="1503661165km239s2580" file="text.html" crypt="1"/>
+       <record id="15036611650yup9y6432" name="UkM1U0lNUAMmlY2I4DGizOFuaP6UPy3Qs9XL86JUIh3i4G7V+i/R6G9bWL18ffgsoKvxriSouHcVqLVj6TMqSIjHst7n774t5U8RCAiuhQ5WakG6/29SHbkaRHB8lsdkEC1WXNvZv6k6mtZHQuNWBA==" author="UkM1U0lNUAOWHVGJ2beigYW23eeWUrM86nwSmHD9ZpKm7teep9SQX9l5rEd9xWZYLmR0V2iYMcePk6ArfKALKQ==" url="" tags="UkM1U0lNUAMNhAe4JsnK+rKPiLDRnVve6acSN2l9CTMcQkN4Lv0RyKoXbG9DHYVNbbxKfNGNnuI=" ctime="20170825163925" dir="1503661165km239s2580" file="text.html" crypt="1"/>
        <record id="1503661282uimmynp1b7" name="UkM1U0lNUAPqUNt1oxjsTki/ojOzDCmVBQpysTG8JQAczSunT769OXA1qXOR0kok9OaNiOTmiHwcVt/nNmFihoOo3aZKuJaYacayuMI2yUkWRcr+RcBprjwarKmInLIl" author="UkM1U0lNUAPOr2WnZJbwfXJfafQ6th/t40nT6oKMqFtMQwCTJifubPzmsgSsGqm2hBuBHhbEneDnXliX9ABTbQ==" url="" tags="UkM1U0lNUANiuZNZOHPoCfOvSwbziHILbMBRIYq3M736UazHRi2fXLQc+sxVpeP83AoNb5vZmMw=" ctime="20170825164122" dir="1503661282cn9a8po4g1" file="text.html" crypt="1"/>
        <record id="1503767668ls56yrazjf" name="UkM1U0lNUAMTvKmZUX8lEKViWNEfkEycFgSnmMD/+FYWZoH37Z1BWR7xiQpwNoQrgwTbnuPASG9TIYjV3tyOjWTgnATvWO30nPCkPcJSEcvDxl5oIOBYol6JA26RJyuh+RGwWOARLkHzff2ZZWQDBw==" author="UkM1U0lNUAMqlVvqzt4qwDxjwj/OB0Sq7qlfuQ/nT1ajxRKsls81O9G6kVPsTD7bgU2oNVgaR2//37Y60d5z5w==" url="" tags="UkM1U0lNUAMEWbvgQppJh4tmDD7vyykuv2aID4TrPCFneNA4eyeM2bZXx2jgN/3XNu7Q2x/6zBQ=" ctime="20170826221428" dir="1503767668qia8dbk4qj" file="text.html" crypt="1"/>
       </recordtable>
@@ -282,6 +282,7 @@
      <record id="1503076129f0e6aessja" name="Персонажи" author="Шипицин С. П." url="" tags="" ctime="20170818220849" dir="1503076129dnypkvnt6e" file="text.html"/>
      <record id="15030764298adujwhxp7" name="Студент гильдии" author="Шипицин С. П." url="" tags="" ctime="20170818221349" dir="1503076429a9c3vlz8u5" file="text.html"/>
      <record id="150307653064r75u4dvp" name="Хронология" author="Шипицин С. П." url="" tags="" ctime="20170818221530" dir="1503076530od7j2w2qls" file="text.html"/>
+     <record id="15038583820qw0dq6un5" name="Отдельные заметки" author="Шипицин С. П." url="" tags="" ctime="20170827232622" dir="15038583828btc8he9y9" file="text.html"/>
     </recordtable>
    </node>
   </node>
