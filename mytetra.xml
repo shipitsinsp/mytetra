@@ -297,6 +297,9 @@
    </node>
   </node>
   <node crypt="" id="150307552445ck3qxbmt" name="Писательство">
+   <recordtable>
+    <record id="1505983060uwkvj9wusq" name="Идея: эволюция вместе с цивилизацией" author="Шипицин С. П." url="" tags="" ctime="20170921133740" dir="1505983060nmqrwbfkqm" file="text.html"/>
+   </recordtable>
    <node crypt="" id="1503075573afmf4hug02" name="Врата Предела">
     <recordtable>
      <record id="1503075595d2a7ll3pi0" name="Восьмой хранитель" author="Шипицин С. П." url="" tags="" ctime="20170818215955" dir="15030755958w26sw5ipf" file="text.html"/>
